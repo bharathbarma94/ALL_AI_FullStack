@@ -1,4 +1,4 @@
-import logo from "./AI.png";
+import logo from "./AI.svg";
 import gradientBackground from "./gradientBackground.png";
 import user_group from "./user_group.png";
 import star_icon from "./star_icon.svg";
