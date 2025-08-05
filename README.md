@@ -37,7 +37,7 @@ ALL_AI is a full-stack AI-powered web application that offers a suite of creativ
 
 ## 🛠️ Project Structure
 
-QuickAI-Full-Stack/
+ALL_AI-Full-Stack/
 ├── client/ # React frontend (Vite-based)
 │ ├── src/
 │ ├── pages/ # Page-level views like Dashboard, BlogTitles, etc.
